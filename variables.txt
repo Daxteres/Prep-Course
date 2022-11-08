@@ -1,0 +1,8 @@
+variables: son almacenes de valores para poder reutilizar o realizar acciones con dichos valores.
+strings: son cadenas de texto que pueden conllevar de 1 a infinitas palabras.
+funciones(argumentos, return): las funciones son instrucciones que realizan acciones y que retornan un valor (aunque sea undifined) y por las cuales evitamos la repetición de codigo.
+los argumentos son los valores que damos a las funciones para que realicen sus acciones.
+El return en las funciones realiza la acción de devolver un valor.
+declaraciones if: es un controlador de flujo, o en palabras más llanas un semaforo que indica al ordenador cuando leer la parte del codigo que contiene,
+como en el caso de if seria "si", si se produce lo que tengo entre parentesis lee el siguiente codigo.
+valores booleanos: son valores que significan verdadero o falso.
