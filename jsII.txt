@@ -1,0 +1,2 @@
+for: es uno de los bucles que nos permite repetir una acción determinada hasta que lo necesitemos.
+&&,||, !: son las puertas logicas, nos permiten comparar valores y nos responden con un verdadero o falso
