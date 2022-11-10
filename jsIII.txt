@@ -1,0 +1,2 @@
+arrays: son contenedores donde podemos guardar multiples datos separados entre si pero en un mismo contendor,
+como si fuera un armario donde en cada cajón podemos guardar una cosa diferente.
