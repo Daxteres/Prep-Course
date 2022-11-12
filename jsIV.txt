@@ -1,0 +1,6 @@
+objetos:son contenedores de datos como los arrays pero que contienen información sobre un elemento.
+Propiedades: son los diferentes valores que tiene el objeto y en cuyos guardamos información sobre dich.
+Métodos: uno de los valores que puede albergar un objeto es una función, a eso le llamamos método.
+Bucle for..in: es un bucle que usamos para recorrer las propiedades de un objeto en el caso que un bucle estándar no funcione.
+Notación de puntos vs notación de corchetes: son diferentes maneras de llamar objetos y sus propiedades, mientras una usa el punto seguido del objeto con el nombre de la
+propiedad, el otro usa los corchetes para referirse a la propiedad.
