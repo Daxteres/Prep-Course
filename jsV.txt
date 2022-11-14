@@ -1,0 +1,3 @@
+Prototype: son funcionalidades (metodos) que se le pueden dar a una clase, de manera que no sea 
+necesaría la repetición de código.
+Constructors(de Clases):son estructuras base de como tendran que ser objetos de dicha clase.
